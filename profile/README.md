@@ -1,2 +1,13 @@
-![GKDroid Banner](https://raw.githubusercontent.com/GKDroid/.github/main/profile/gkdroid.svg)
-A private **ProjectMatrixx** copy for me and my friends.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  background-color: #FFFFFF;
+}
+</style>
+</head>
+<body>
+<p align="center"><img src="image.svg" /></p>
+</body>
+</html>
